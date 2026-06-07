@@ -45,7 +45,7 @@ body {
 .hero {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
-    url("/css/foisor.jpg");
+    url("css/foisor.jpg");
   background-size: cover;
   background-position: center;
   color: #fff;
